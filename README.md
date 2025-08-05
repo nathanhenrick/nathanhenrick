@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   ## 👋 Hi, I'm Nathan Henrick
 
 💻 **Front-end Developer** focused on building modern web applications with **Vue.js** and **Nuxt**.  
