@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-810.gif"  />
-
 <div align="left">
   💻 **Front-end Developer** focused on building modern web applications with **Vue.js** and **Nuxt**.  
   🔗 Experienced in **back-end development with Laravel and MySQL**, integrating REST APIs using Axios, authentication, and CORS handling.  
