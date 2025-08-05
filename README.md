@@ -59,6 +59,6 @@
 </picture>
 
 ###
-<div align="center">
-  [nathanhenrick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhenrick&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+
+![nathanhenrick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhenrick&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
