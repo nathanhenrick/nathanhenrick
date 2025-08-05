@@ -3,9 +3,15 @@
 ###
 
 <div align="left">
-  💻 **Front-end Developer** focused on building modern web applications with **Vue.js** and **Nuxt**.  
-  🔗 Experienced in **back-end development with Laravel and MySQL**, integrating REST APIs using Axios, authentication, and CORS handling.  
-  🚀 Currently transitioning to **Full-stack Development**, studying database design, API development, and structuring robust back-end projects with Laravel.
+ 💻 Front-end Developer focused on building modern web applications with Vue.js and Nuxt.
+<div>
+</div>
+<div align="left">
+ 🔗 Experienced in back-end development with Laravel and MySQL, integrating REST APIs using Axios, authentication, and CORS handling.  
+</div>
+<div align="left">
+ 🚀 Currently transitioning to Full-stack Development, studying database design, API development, and structuring robust back-end projects with Laravel. 
+</div>
 
 ---
 
