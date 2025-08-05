@@ -48,11 +48,6 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
   ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
-
----
-
-🎓 Since **October 2024**, pursuing a degree in **Systems Analysis and Development (UNINTER)** to strengthen both theoretical and practical knowledge.  
-
 </div>
 
 ###
