@@ -2,18 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-810.gif"  />
-
-###
-
 <div align="left">
-
-💻 **Front-end Developer** focused on building modern web applications with **Vue.js** and **Nuxt**.  
-🔗 Experienced in **back-end development with Laravel and MySQL**, integrating REST APIs using Axios, authentication, and CORS handling.  
-🚀 Currently transitioning to **Full-stack Development**, studying database design, API development, and structuring robust back-end projects with Laravel.  
+  💻 **Front-end Developer** focused on building modern web applications with **Vue.js** and **Nuxt**.  
+  🔗 Experienced in **back-end development with Laravel and MySQL**, integrating REST APIs using Axios, authentication, and CORS handling.  
+  🚀 Currently transitioning to **Full-stack Development**, studying database design, API development, and structuring robust back-end projects with Laravel.  
+</div>
 
 ---
 
+<div align="left">
 ### 🛠️ Technologies & Tools  
 
 - **Front-end:**  
@@ -48,6 +45,8 @@
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
   ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 </div>
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-810.gif"  />
 
 ###
 
