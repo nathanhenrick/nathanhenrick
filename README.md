@@ -32,17 +32,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/animejs/DB7093" height="30" alt="animejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/aos/000000" height="30" alt="aos logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/greensock/88CE02" height="30" alt="gsap logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cleave.js/000000" height="30" alt="cleavejs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pinia/FFD859" height="30" alt="pinia logo" />
   <img width="12" />
 
   <!-- Back-end -->
