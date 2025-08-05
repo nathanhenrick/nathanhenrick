@@ -7,39 +7,72 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <!-- Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="30" alt="nuxtjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/animejs/DB7093" height="30" alt="animejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/aos/000000" height="30" alt="aos logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="30" alt="gsap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img src="https://cdn.simpleicons.org/cleave.js/000000" height="30" alt="cleavejs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="30" alt="nuxtjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pinia/FFD859" height="30" alt="pinia logo" />
+  <img width="12" />
+
+  <!-- Back-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img width="12" />
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
+  <img width="12" />
+
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/inkscape/000000" height="30" alt="inkscape logo" />
 </div>
 
 ###
